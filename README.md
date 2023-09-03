@@ -2,7 +2,7 @@
 
 A bunch of useless code that will never go into production and solve real world problems
 
-# Rules refs
+# Rule Reference
 
 ## naming branchs
 
